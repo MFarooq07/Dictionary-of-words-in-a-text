@@ -1,5 +1,5 @@
 #Automatic Index Creator
-<h1> Introduction
+<h1> Introduction <h1/>
 At the end of many books is an index that tells you on which pages you can find certain keywords. Most modern word processors can automatically create an index for you by scanning the text, picking out significant words, and keeping track of the pages on which those words occur.
 
 Your Mission
